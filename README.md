@@ -36,7 +36,7 @@ _Asignatura:_ **"Desarrollo Web en entorno Servidor"**
 ### Mi equipo
 <div><img src="https://img.shields.io/badge/Apple-MacBook_Pro_Mid2012_(MD101)-999999?style=for-the-badge&logo=apple&logoColor=white" /></div>
 
-### Estadísticas
+### Estadísticas   
 
 <div>
   <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mariaestmag&show_icons=true&theme=swift" /> 
