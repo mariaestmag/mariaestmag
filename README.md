@@ -2,7 +2,7 @@
 Hola!  Me llamo María 👋🏻    
 ~~~
 
-## Sobre mí:
+## Sobre mí
 
  📍 Zaragoza (½ almeriense ½ maña)  
  👩‍💻 2º DAW (CPIFP Los Enlaces)  
@@ -29,14 +29,14 @@ _Asignatura:_ **"Desarrollo Web en entorno Servidor"**
 
 ---
 
-### Tecnologías: 
+### Tecnologías 
 
 <div><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></div>
 
-### Mi equipo:
+### Mi equipo
 <div><img src="https://img.shields.io/badge/Apple-MacBook_Pro_Mid2012_(MD101)-999999?style=for-the-badge&logo=apple&logoColor=white" /></div>
 
-### Estadísticas:
+### Estadísticas
 
 <div>
   <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mariaestmag&show_icons=true&theme=swift" /> 
